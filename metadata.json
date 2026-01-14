@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "拍摄您的餐点，利用 Gemini AI 即时获取卡路里和宏观营养素估算。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
